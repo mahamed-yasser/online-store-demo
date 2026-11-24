@@ -1,5 +1,9 @@
 # Online Store (demo)
 
+![Screenshot](docs/screenshot.jpg)
+
+_Screenshot (local test run, fictional demo data)._
+
 Arabic right-to-left demo store with a working cart.
 
 **Demo project.** All businesses, products, people and numbers are fictional. Nothing is sent anywhere and no real data is collected.
